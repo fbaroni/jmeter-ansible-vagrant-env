@@ -1,0 +1,5 @@
+blusa,Fernanda,Lopez
+estampado,John,Doe
+camiseta,Fernando,Niembro
+vestido,Maria,Perez
+gasa,Estela,Gomez
