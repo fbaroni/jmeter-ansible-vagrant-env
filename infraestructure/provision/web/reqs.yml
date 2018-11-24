@@ -1,0 +1,10 @@
+---
+ - src: geerlingguy.git
+ - src: geerlingguy.apache
+ - src: geerlingguy.php
+ - src: geerlingguy.php_versions
+ - src: geerlingguy.php-mysql
+ - src: geerlingguy.mysql
+ - src: geerlingguy.phpmyadmin
+ - src: geerlingguy.composer
+ #TODO prestashop

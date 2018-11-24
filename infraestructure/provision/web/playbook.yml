@@ -8,4 +8,3 @@
     - { role: geerlingguy.php-mysql, become: true }
     - { role: geerlingguy.composer, become: true }
     - { role: geerlingguy-git, become: true }
-    - { role: prestashop, become: true }

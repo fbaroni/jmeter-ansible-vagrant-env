@@ -6,4 +6,4 @@
     - { role: geerlingguy.apache, become: true }
     - { role: geerlingguy.php, become: true }
     - { role: geerlingguy.php-mysql, become: true }
-    - { role: phpmyadmin, become: true }
+    - { role: geerlingguy.phpmyadmin, become: true }
