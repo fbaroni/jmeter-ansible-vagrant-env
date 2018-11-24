@@ -1,0 +1,13 @@
+---
+server:
+    install: '1'
+    timezone: UTC
+    locale: en_US.UTF-8
+nginx:
+    install: '1'
+    docroot: /vagrant
+    servername: myApp.vb
+php:
+    install: '1'
+    ppa: php
+

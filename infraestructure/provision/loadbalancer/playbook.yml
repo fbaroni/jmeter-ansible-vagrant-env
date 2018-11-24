@@ -1,0 +1,11 @@
+---
+- hosts: all
+  become: yes
+  become_method: sudo
+  vars_files:
+    - vars/all.yml
+  roles:
+    - nginx_proxy
+  roles:
+    - { role: nginx_proxy, become: true }
+    - { role: geerlingguy.git, become: true }
